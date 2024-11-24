@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\bin\LibrarySQL.dll.config
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\bin\LibrarySQL.dll
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\bin\LibrarySQL.pdb
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\bin\System.Data.SqlClient.dll
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\bin\System.Data.SqlClient.xml
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\obj\Debug\LibrarySQL.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\obj\Debug\LibrarySQL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\obj\Debug\LibrarySQL.csproj.Up2Date
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\obj\Debug\LibrarySQL.dll
+C:\Users\sebas\source\repos\LibrarySQL\LibrarySQL\obj\Debug\LibrarySQL.pdb

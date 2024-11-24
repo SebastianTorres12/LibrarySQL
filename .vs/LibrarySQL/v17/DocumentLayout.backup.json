@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15C49F-0362-41B9-BCDB-B07DA3CBD79B}|ClientSQLService\\ClientSQLService.csproj|c:\\users\\sebas\\source\\repos\\librarysql\\clientsqlservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC15C49F-0362-41B9-BCDB-B07DA3CBD79B}|ClientSQLService\\ClientSQLService.csproj|solutionrelative:clientsqlservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC15C49F-0362-41B9-BCDB-B07DA3CBD79B}|ClientSQLService\\ClientSQLService.csproj|c:\\users\\sebas\\source\\repos\\librarysql\\clientsqlservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FC15C49F-0362-41B9-BCDB-B07DA3CBD79B}|ClientSQLService\\ClientSQLService.csproj|solutionrelative:clientsqlservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|C:\\Users\\sebas\\source\\repos\\LibrarySQL\\librarysql\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|solutionrelative:librarysql\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|C:\\Users\\sebas\\source\\repos\\LibrarySQL\\librarysql\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|solutionrelative:librarysql\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|C:\\Users\\sebas\\source\\repos\\LibrarySQL\\librarysql\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|solutionrelative:librarysql\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|C:\\Users\\sebas\\source\\repos\\LibrarySQL\\librarysql\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4E22377-029B-4F2D-AB30-6286EF2D87F8}|LibrarySQL\\LibrarySQL.csproj|solutionrelative:librarysql\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\ClientSQLService\\App.config",
+              "RelativeDocumentMoniker": "ClientSQLService\\App.config",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\ClientSQLService\\App.config",
+              "RelativeToolTip": "ClientSQLService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T00:45:01.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\ClientSQLService\\Program.cs",
+              "RelativeDocumentMoniker": "ClientSQLService\\Program.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\ClientSQLService\\Program.cs",
+              "RelativeToolTip": "ClientSQLService\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:54:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Web.config",
+              "RelativeDocumentMoniker": "LibrarySQL\\Web.config",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Web.config",
+              "RelativeToolTip": "LibrarySQL\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-23T23:44:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\IService1.cs",
+              "RelativeDocumentMoniker": "LibrarySQL\\IService1.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\IService1.cs",
+              "RelativeToolTip": "LibrarySQL\\IService1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:36:37.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Libro.cs",
+              "RelativeDocumentMoniker": "LibrarySQL\\Libro.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Libro.cs",
+              "RelativeToolTip": "LibrarySQL\\Libro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:35:57.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "LibrarySQL\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\LibrarySQL\\LibrarySQL\\Service1.svc.cs",
+              "RelativeToolTip": "LibrarySQL\\Service1.svc.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:33:43.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

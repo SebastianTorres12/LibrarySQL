@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\bin\Debug\ClientSQLService.exe.config
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\bin\Debug\ClientSQLService.exe
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\bin\Debug\ClientSQLService.pdb
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\obj\Debug\ClientSQLService.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\obj\Debug\ClientSQLService.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\obj\Debug\ClientSQLService.exe
+C:\Users\sebas\source\repos\LibrarySQL\ClientSQLService\obj\Debug\ClientSQLService.pdb
